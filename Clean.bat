@@ -1,0 +1,1 @@
+del lex.yy.c y.tab.c y.tab.h hack_assembler.exe
